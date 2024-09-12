@@ -1,5 +1,5 @@
 Created by : Bibek Parajuli
-Purpose: For online Portfolio,
+Purpose: Online Portfolio,
 Role: Data Analyst
-Skills: EXCEL, SQL, Python, PowerBI
+Skills: EXCEL, SQL, Python, PowerBI, Jupyter Notebook, Azure Data Studio
 
